@@ -1,8 +1,8 @@
 app_name = "library_management"
 app_title = "Library Management"
-app_publisher = "Faris Ansari\\"
-app_description = "Library Management System"
-app_email = "faris@example.com"
+app_publisher = "BlackBear"
+app_description = "Hello"
+app_email = "truong@gmail.com"
 app_license = "mit"
 
 # Apps
